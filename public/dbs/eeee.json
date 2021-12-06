@@ -1,0 +1,96 @@
+{
+  "itemsData": [
+    {
+      "id": 1,
+      "name": "shose ....",
+      "prise": 12.75,
+      "description": "Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.",
+      "catagory": "shose",
+      "imgSrc": "/images/product_01.jpg",
+      "reviews": 18,
+      "rate": 3
+    },
+    {
+      "id": 2,
+      "name": "jaket ....",
+      "prise": 40,
+      "description": "Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.",
+      "catagory": "jaket",
+      "imgSrc": "/images/product_03.jpg",
+      "reviews": 21,
+      "rate": 5
+    },
+
+    {
+      "id": 3,
+      "name": "t-shirt ....",
+      "prise": 20.5,
+      "description": "Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.",
+      "catagory": "shirt",
+      "imgSrc": "/images/product_05.jpg",
+      "reviews": 18,
+      "rate": 4
+    },
+    {
+      "id": 4,
+      "name": "pants ....",
+      "prise": 18.75,
+      "description": "Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.",
+      "catagory": "pants",
+      "imgSrc": "/images/product_08.jpg",
+      "reviews": 25,
+      "rate": 4
+    },
+    {
+      "id": 5,
+      "name": "t-shirt ....",
+      "prise": 22.25,
+      "description": "Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.",
+      "catagory": "shirt",
+      "imgSrc": "/images/product_06.jpg",
+      "reviews": 30,
+      "rate": 5
+    },
+    {
+      "id": 6,
+      "name": "shose ....",
+      "prise": 18.25,
+      "description": "Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.",
+      "catagory": "shose",
+      "imgSrc": "/images/product_02.jpg",
+      "reviews": 23,
+      "rate": 3
+    },
+    {
+      "id": 7,
+      "name": "pants ....",
+      "prise": 25.25,
+      "description": "Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.",
+      "catagory": "pants",
+      "imgSrc": "/images/product_07.jpg",
+      "reviews": 12,
+      "rate": 2
+    },
+
+    {
+      "id": 8,
+      "name": "jaket ....",
+      "prise": 45.5,
+      "description": "Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.",
+      "catagory": "jaket",
+      "imgSrc": "/images/product_04.jpg",
+      "reviews": 25,
+      "rate": 3
+    },
+    {
+      "id": 9,
+      "name": "pants ....",
+      "prise": 30,
+      "description": "Lorem ipsume dolor sit amet, adipisicing elite. Itaque, corporis nulla aspernatur.",
+      "catagory": "pants",
+      "imgSrc": "/images/product_09.jpg",
+      "reviews": 22,
+      "rate": 5
+    }
+  ]
+}

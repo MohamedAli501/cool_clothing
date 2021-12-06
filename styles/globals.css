@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .active_item {
+    @apply text-red-500;
+  }
+
+  .min_heights {
+    min-height: calc(100vh - 233px);
+  }
+
+  .slider_heights {
+    min-height: calc(100vh - 500px);
+  }
+
+  .swiper-pagination {
+    display: none;
+  }
+
+  .swiper-pagination-bullet {
+    margin: 0 1rem !important;
+    width: 16px !important;
+    height: 16px !important;
+    background-color: theme(colors.blue.500);
+  }
+
+  /* Pagination show in md screen */
+  @screen md {
+    .swiper-pagination {
+      bottom: 100px !important;
+      display: block;
+    }
+  }
+
+  .about-bg {
+    background-image: url("/images/services-bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  .our-team:hover .social-link {
+    background-color: #ef4444af;
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .accord-show {
+    height: auto;
+    max-height: 999px;
+    transition: all 0.4s linear;
+  }
+
+  .accord-hidde {
+    max-height: 0;
+    transition: all 0.2s linear;
+  }
+}
