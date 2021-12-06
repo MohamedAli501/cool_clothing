@@ -1,2 +1,2 @@
 # cool_clothing
-Website create with  Nexjs &amp; Tailwind Css
+Website create with   Nexjs &amp;  Tailwind Css
